@@ -241,7 +241,7 @@ module DesignHuddleUser
     def server_settings
       [
         {
-          url: "https://votercast.designhuddle.com",
+          url: "https://votercast.designhuddle.com/api",
           description: "No description provided",
         }
       ]
